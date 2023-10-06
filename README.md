@@ -1,6 +1,5 @@
 ---
-title: LawGPT
-emoji: 🏃
+title: Legal-ease
 colorFrom: yellow
 colorTo: pink
 sdk: streamlit
