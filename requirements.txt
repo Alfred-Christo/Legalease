@@ -1,2 +1,8 @@
 streamlit==1.10.0
-transformers==4.11.3
+langchain
+transformers
+torch
+gradio
+sentence-transformers
+accelerate
+chromadb
